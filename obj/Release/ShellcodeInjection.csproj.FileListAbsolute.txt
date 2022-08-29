@@ -1,0 +1,10 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\bin\Release\ShellcodeInjection.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\bin\Release\ShellcodeInjection.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\bin\Release\ShellcodeInjection.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.Properties.Resources.resources
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ShellcodeInjection\obj\Release\ShellcodeInjection.csproj.GenerateResource.cache
